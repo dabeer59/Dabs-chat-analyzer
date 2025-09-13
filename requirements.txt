@@ -1,0 +1,7 @@
+streamlit
+pandas
+selenium
+webdriver-manager
+chromedriver-autoinstaller
+google-generativeai
+tqdm
