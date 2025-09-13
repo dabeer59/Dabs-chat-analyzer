@@ -1,7 +1,8 @@
 streamlit
 pandas
-selenium
-webdriver-manager
+playwright
 google-generativeai
 tqdm
+
+
 
